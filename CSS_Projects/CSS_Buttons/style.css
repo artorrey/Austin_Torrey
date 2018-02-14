@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    font-family: Oswald;
+    font-size: 24px;
+    padding: 24px 90px
+}
+
+.btn {
+    display: block;
+    float: left;
+    padding: inherit;
+    margin-left: 10px;
+    margin-top: 45px;
+    box-shadow: none;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+
+
+#blue {
+    background-color: #1536A6;
+}
+
+#red {
+    background-color: #FF0000;
+}
+
+#green {
+    background-color: #00BB4B;
+}
+
+#yellow {
+    background-color: #FEF300;
+}
+
+#blue:hover {
+    background-color: deepskyblue;    
+}
+
+#red:hover {
+    background-color: deeppink;
+}
+
+#green:hover {
+    background-color: chartreuse;
+}
+
+#yellow:hover {
+    background-color: darkorange;
+}

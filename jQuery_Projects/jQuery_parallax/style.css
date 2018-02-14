@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+}
+section {
+    padding: 50px;
+    font-weight: bold;
+    font-family: Impact;
+    color: #263238;
+}
+
+hr {
+    color: #263238;
+}
+.fa {
+    display: block;
+}
+#icons i {
+    font-size: 200px;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+html,
+body {
+    margin: 0;
+}
+
+#myCanvas {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.jumbotron {
+    background-color: black;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 255px;
+    padding-top: 255px;
+    color: white;
+    font-family: Impact;
+
+
+
+}
+

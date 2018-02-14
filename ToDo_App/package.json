@@ -1,0 +1,33 @@
+{
+  "name": "to_do_app",
+  "version": "1.0.0",
+  "description": "to do app",
+  "engines": {
+    "node": "6.7.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "NODE_ENV=test npm install && mocha ./tests",
+    "start": "NODE_ENV=dev npm install && node server.js",
+    "prod": "NODE_ENV=dev npm install && pm2  server.js"
+  },
+  "author": "Austin Torrey & Erik Thornton",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6",
+    "path": "^0.12.7",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "supertest": "^2.0.1",
+    "underscore": "^1.8.3"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Javascript Project 7</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="script7.js"></script>
+    </head>
+    <body>
+        <div id="formfield">
+            <h1>Please enter your name and email to enter or raffle!</h1>
+            <form novalidate name="signnup" onsubmit="validateForm()">
+                <fieldset id="signupfield" name="fieldset">
+                    <p>Email Address:</p>
+                    <input type="text" name="userEmail" minlength="8" class="inputbox" id="email" placeholder="Email address (required)">
+                    <p>Password:</p>
+                    <input type="password" name="userPassword" minlength="6" class="inputbox" id="password" placeholder="Password (required)">
+                    <br>
+                    <input type="submit" value="Submit" id="subbtn">
+                </fieldset>
+            </form>
+        </div>
+    </body>
+
+</html>

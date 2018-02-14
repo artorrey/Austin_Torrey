@@ -1,0 +1,94 @@
+.GamePage {
+    padding-left: 50px;
+}
+
+.row {
+    justify-content: center;
+}
+
+.btn {
+    height: 200px;
+    width: 400px;
+    font-family: 'Bungee Shade', cursive;
+    border: #51ccff solid 10px;
+}
+
+body {
+    /*background-image: url("img/DD-Retro-Grunge-Background-99833-Preview.jpg");*/
+    font-family: 'Bungee Shade', cursive;
+
+}
+
+.vs {
+    margin-top: 50px;
+    background-image: url("./img/Vs_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    z-index: 9999;
+}
+
+.winner {
+    color: rgba(48,152,52,0.99);
+    align-content: center;
+    font-size: 36px;
+}
+
+.loser {
+    color: rgba(152,48,17,0.99);
+    font-size: 36px;
+}
+
+.match {
+    font-size: 36px;
+
+}
+
+.BPlogo {
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+
+}
+
+#standings-header {
+    font-size: 56px;
+    padding: 20px;
+}
+
+#standings {
+    justify-content: left;
+    text-align: center;
+    background-image: url("./img/muppets_gonzo_coloring2.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+
+}
+
+#score {
+    margin: 20px;
+
+}
+
+#player-score {
+    font-size: 48px;
+    text-align: left;
+
+}
+
+#player-name {
+    font-size: 48px;
+    /*text-align: right;*/
+}
+
+
+
+/*.col-sm-2 {*/
+    /*padding: 0;*/
+    /*padding-right: -200px;*/
+    /*margin-right: -100px;*/
+/*}*/
+

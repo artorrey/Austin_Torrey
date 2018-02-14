@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar-brand>img {
+    height: 100%;
+    padding: 15px;
+    width: auto;
+}
+
+#backgroundimg {
+    background-image: url(images/backgrounds/background1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 1280px;
+    margin-bottom: 0px;
+
+}
+
+.navbar-header {
+    margin-bottom: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+
+}
+
+#backgroundimg h1 {
+    color: white;
+    min-height: 100%;
+    padding-top: 25%;
+    display: flex;
+    align-items: center;
+}
+
+#aboutbgimage {
+    background-image: url(images/backgrounds/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 1271px;
+}
+
+#aboutbgimage h1 {
+    color: white;
+    min-height: 100%;
+    padding-top: 25%;
+    display: flex;
+    align-items: center;
+}
+
+#contactbgimage {
+    background-image: url(images/backgrounds/background3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 1271px;
+
+}
+
+#contactbgimage h1 {
+    color: white;
+    min-height: 100%;
+    padding-top: 25%;
+    display: flex;
+    align-items: center;
+}
+.btn-success {
+    margin: 5px;
+}
+
+footer {
+    background-color: #273c4f;
+    padding: 50px;
+    height: 100%;
+    margin-top: 0px;
+    /*margin-top: -200px;*/
+
+
+
+
+}
+
+/*
+footer ul {
+    list-style: none;
+
+}
+*/
+footer h6 {
+    color: blue;
+}
+
+footer li a {
+    color: white;
+    display: block;
+}
+
+section {
+    height: 100%;
+    box-sizing: border-box;
+    background-color: white;
+    padding: 50px;
+
+}
+
+#midsection {
+    background-color: #273c4f;
+    color: white;
+}

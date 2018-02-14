@@ -1,0 +1,17 @@
+#clock {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 180px;
+    font-family: Audiowide;
+    font-weight: bold;
+    color: white;
+    align-content: center;
+    
+
+}
+
+body {
+    background-color: #4FC3F7; 
+}

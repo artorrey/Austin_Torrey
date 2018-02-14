@@ -1,0 +1,137 @@
+ul,
+li,
+body {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left; 
+}
+
+body {
+    font-family: "Oswald";
+    background-color: #eaf0f2;
+}
+
+h1 {
+    margin-left: 35px;
+}
+
+img {
+    margin-left: 35px;
+}
+
+nav.navbar {
+    font-size: 25px;
+    background-color: #263238;
+    height: 75px;
+    width: 100%;
+}
+
+.news {
+    display: block;
+    float: left;
+    text-decoration: none;
+    color: white;
+    font-size: 42px;
+    padding: 15px 35px;
+    line-height: 35px;
+}
+
+li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    height: 45px;
+    line-height: 45px;
+    padding: 15px 20px;
+}
+
+ul.mainmenu {
+    position: relative;
+     
+}
+
+ul.mainmenu li a:hover {
+    background-color: #546E7A;
+}
+
+ul.dropdown {
+    float: none;
+    width: auto;
+    height: auto;
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    visibility: hidden;
+    max-height: 0;
+    transition: 0.6s ease-in-out 0.6s;
+    
+}
+
+ul.dropdown li {
+    float: none;
+    overflow: auto;
+}
+
+ul.mainmenu li:hover ul.dropdown {
+    visibility: visible;
+    max-height: none;
+}
+
+ul.dropdown li a {
+    background-color: #263238;
+    white-space: nowrap;
+    height: 45px;
+    line-height: 45px;
+    padding: 15px 20px;
+    
+}
+
+ul.dropdown li a:hover {
+    background-color: #CFD8DC;
+}
+
+footer {
+    background-color: #263238;
+    font-size: 18px;
+    padding: 50px;
+    margin-top: 75px;
+    text-align: center;
+    width: auto;
+}
+
+.footnews {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #B0BEC5;
+    font-size: 28px;
+}
+
+ul.footmenu {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+ul.footmenu li a {
+    display: block;
+    font-size: 16px;
+    width: inherit;
+    text-align: center;
+    padding: 0 5px;
+}
+
+ul.footmenu li a:hover {
+    background-color: #CFD8DC;
+}
+
+.copy {
+    display: flex-inline;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    color: #B0BEC5;
+    width: auto;
+    padding:  0;
+}

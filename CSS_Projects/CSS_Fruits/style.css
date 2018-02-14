@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin-left: 100px;
+    margin-top: 45px;
+}
+
+img {
+    display: flex;
+    height: 300px;
+    width: 400px;
+    margin-bottom: 40px;
+    margin-right: 130px;
+    float: left;
+}

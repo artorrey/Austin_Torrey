@@ -1,0 +1,30 @@
+#formfield {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.inputbox {
+    width: 90%;
+    height: 90px;
+    border-color: black;
+    padding-left: 30px;
+    line-height: 90px;
+    font-size: 150%;
+
+    
+}
+
+p {
+    font-size: 36px;
+    
+}
+
+#subbtn {
+    margin: 30px 0px;
+    padding: 30px 40%;
+    border-radius: 20px;
+    font-size: 36px;
+    background-color: chartreuse;
+    box-shadow: none;
+    
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="u-tf8">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+</head>
+
+<body>
+    <nav id=navbar>
+        <div id=logo>The Snacks <i class="fa fa-cutlery" aria-hidden="true"></i></div>
+        <ul class="topmenu">
+            <li><a href="#">Trending</a>
+                <ul class="submenu">
+                    <li><a href="#">Entertainment</a></li>
+                    <li><a href="#">Travel</a></li>
+                    <li><a href="#">Education</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Tech</a>
+                <ul class="submenu">
+                    <li><a href="#">Latest</a></li>
+                    <li><a href="#">Programming</a></li>
+                    <li><a href="#">App Reviews</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Politics</a>
+                <ul class="submenu">
+                    <li><a href="#">Headlines</a></li>
+                    <li><a href="#">The Facts</a></li>
+                    <li><a href="#">The Gossip</a></li>
+                </ul>
+            </li>
+            <li><a href="#">About</a>
+                <ul class="submenu">
+                    <li><a href="#">Our Story</a></li>
+                    <li><a href="#">Donate</a></li>
+                </ul>
+            </li>
+            <li><a href="#">FAQ</a>
+                <ul class="submenu">
+                    <li><a href="#">Our Policy</a></li>
+                    <li><a href="#">Careers</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Contact</a>
+                <ul class="submenu">
+                    <li><a href="#">Email</a></li>
+                    <li><a href="#">Phone</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <h1>Check out this image gallery.</h1>
+    <div id="gallery">
+        <img src="images/img1.jpg" id="galleryimg">
+    </div>
+    <button class="button" id="previous" type="button" onclick="moveImage(-1)">Previous</button>
+    <button class="button" id="next" type="button" onclick="moveImage(1)">Next</button>
+<footer>
+    <p><a class="footnews" href="#">The Snacks</a></p>
+        <ul class="footmenu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Tech</a></li>
+            <li><a href="#">Politics</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+        <div class="copy">The News <i class="fa fa-copyright" aria-hidden="true"></i> 1983</div>
+    </footer>
+    <script src="script5.js"></script>
+    </body>
+
+</html>

@@ -1,0 +1,44 @@
+In the shell, create a database called “mydatabase”.
+
+    use mydatabase
+
+Create a collection called “coffee”.
+
+    db.coffee
+
+Within coffee, create an object that has name: "frappuccino" and size: "grande".
+
+    db.coffee.insert({name: 'frappuccino', size: 'grande'})
+
+Create another object that has name: “espresso” and size: “tall”.
+
+    db.coffee.insert({name: 'espresso', size: 'tall'})
+
+Create one more object that has name: “earl grey” and size: “grande”.
+
+    db.coffee.insert({name: 'earl grey', size: 'grande'})
+
+Now, select earl grey and update it to have another key value pair: temp: “hot”.
+
+    db.coffee.update({name: 'earl grey'}, {$set: {temp: 'hot'}})
+
+Let’s also update espresso to have the name “White Chocolate Mocha” instead.
+
+    db.coffee.update({name: 'espresso'}, {$set: {name: 'White Chocolate Mocha'}})
+    
+Let’s do a search. How do we find all drinks that have a size of grande?
+
+    db.coffee.find({size: 'grande'})
+    
+How do we delete an object from our collection?
+
+    db.coffee.remove({name: 'earl grey'})
+
+How do we delete the coffee collection?
+
+    db.coffee.drop()
+
+How do we delete the mydatabase database?
+
+    db.dropDatabase()
+    

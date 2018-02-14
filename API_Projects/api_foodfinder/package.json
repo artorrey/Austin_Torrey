@@ -1,0 +1,14 @@
+{
+  "name": "api_foodfinder",
+  "version": "1.0.0",
+  "description": "app for finding places to eat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Torrey",
+  "license": "ISC",
+  "dependencies": {
+    "yelp": "^1.0.1"
+  }
+}

@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: Oswald; 
+    
+}
+
+body {
+    background-color: #eaf0f2;
+}
+
+#navbar {
+  font-size: 25px;
+  background-color: #263238;
+  height: 75px;
+  
+}
+
+li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    height: 45px;
+    line-height: 45px;
+    padding: 15px 20px;
+    white-space: nowrap;
+    
+    
+}
+
+#logo {
+  font-size: 42px;
+  padding: 15px 35px;
+  line-height: 35px;
+  display: block;
+  float: left;
+  color: white;
+}
+
+ul.topmenu li {
+    display: block;
+    float: left;
+    position: relative;
+}
+
+ul.submenu {
+    float: none;
+    background-color: #aaa;
+    position: absolute;
+    overflow: hidden;
+    visibility: hidden;
+    
+}
+
+ul.submenu li {
+     background-color: #263238;
+}
+
+ul.topmenu li:hover {
+    background-color: #546E7A;
+    
+}
+
+ul.submenu li:hover {
+    background-color: #CFD8DC;
+}
+
+ul.topmenu li:hover ul.submenu li {
+    visibility: visible;
+    overflow: visible;
+}
+
+h1 {
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+/*#gallery {*/
+    /*background-image: url(images/img1.jpg);*/
+    /*width: 640px;*/
+    /*height: 426px;*/
+    /*margin-left: 35px;*/
+    /*margin-top: 35px;*/
+/*}*/
+
+footer {
+    background-color: #263238;
+    font-size: 18px;
+    padding: 50px;
+    margin-top: 75px;
+    text-align: center;
+    width: auto;
+}
+
+.footnews {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #B0BEC5;
+    font-size: 28px;
+}
+
+ul.footmenu {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+ul.footmenu li a {
+    display: block;
+    font-size: 16px;
+    width: inherit;
+    text-align: center;
+    padding: 0 5px;
+}
+
+ul.footmenu li a:hover {
+    background-color: #CFD8DC;
+}
+
+.copy {
+    display: flex-inline;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    color: #B0BEC5;
+    width: auto;
+    padding:  0;
+}
+
+.button {
+    margin-left: 35px;
+    margin-top: 15px;
+    padding: 3px 5px
+    
+}
+
+

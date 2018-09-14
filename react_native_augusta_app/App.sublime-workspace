@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"xMasMs"
+			],
+			[
+				"today",
+				"todayMs"
+			],
+			[
+				"get",
+				"getMilliseconds"
+			],
+			[
+				"gu",
+				"guessNumber"
+			],
+			[
+				"m",
+				"Math"
+			],
+			[
+				"rand",
+				"randNo"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"downloads",
+				"downloads-pdf"
+			],
+			[
+				"instructor",
+				"instructor_ref_id"
+			],
+			[
+				"scho",
+				"school_id"
+			],
+			[
+				"airport",
+				"airport_id"
+			],
+			[
+				"beg",
+				"begin_hobbs"
+			],
+			[
+				"end",
+				"end_hobbs"
+			],
+			[
+				"my",
+				"myFunc"
+			],
+			[
+				"ascii",
+				"asciiHeart"
+			],
+			[
+				"a",
+				"asciiHeart"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Austin/Desktop/LP Web/adtl_doc_footer.html",
+		"/Users/Austin/Desktop/LP Web/Elation/elation_header.html",
+		"/Users/Austin/Desktop/WebBC/Austin_Torrey/Javscript_Projects/JavaScript_Greeting/index.html",
+		"/Users/Austin/Desktop/WebBC/Austin_Torrey/Javscript_Projects/JavaScript_Greeting/script1.js",
+		"/Users/Austin/Desktop/JS Practice/script.js",
+		"/Users/Austin/Desktop/JS Practice/index.html",
+		"/Users/Austin/Desktop/WebBC/Austin_Torrey/Javscript_Projects/JavaScript_Clock/style.css",
+		"/Users/Austin/Desktop/WebBC/Austin_Torrey/Javscript_Projects/JavaScript_Clock/script6.js",
+		"/Users/Austin/Desktop/WebBC/Austin_Torrey/Javscript_Projects/JavaScript_Clock/index.html",
+		"/Users/Austin/Desktop/LP Web/about_us.html",
+		"/Users/Austin/Desktop/PickTheStick/App.js",
+		"/Users/Austin/Desktop/MLC/package.json",
+		"/Users/Austin/Desktop/LP Web/HES/HES_header.html",
+		"/Applications/MAMP/htdocs/phptutorial/process.php",
+		"/Applications/MAMP/htdocs/phptutorial/index.php",
+		"/Users/Austin/Desktop/LP Web/Martin/martin_header.html",
+		"/Users/Austin/Desktop/LP Web/header.html",
+		"/Users/Austin/Desktop/LP Web/sample.html",
+		"/Users/Austin/Desktop/LP Web/HES/Hex/hex.html",
+		"/Users/Austin/Desktop/LP Web/HES/Uno/uno.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaWash 37/solawash_37.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaFrame 1500/solaframe_1500.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaSpot Pro CMY/solaspot_pro_cmy.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaWash 2000/solawash_2000.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaWash 19/solawash_19.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaSpot 2000/solaspot_2000.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaSpot 1000/solaspot_1000.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaHyBeam 2000/solahybeam_2000.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaHyBeam 1000/solahybeam_1000.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaFrame Theatre/solaframe_theatre.html",
+		"/Users/Austin/Desktop/LP Web/HES/SolaFrame 2000/solaframe_2000.html",
+		"/Users/Austin/Desktop/LP Web/roadhog3.html",
+		"/Users/Austin/Desktop/LP Web/fullboar3.html",
+		"/Users/Austin/Desktop/LP Web/template.html",
+		"/Users/Austin/Desktop/LP Web/sample2.html",
+		"/Users/Austin/Desktop/LP Web/HES/Quad/quad.html",
+		"/Users/Austin/Desktop/FlightSchoolApp/database/create.sql",
+		"/Users/Austin/Desktop/PilotCertificate.jsx",
+		"/Users/Austin/Desktop/FlightSchoolApp/src/components/Profile/DocumentsForm.jsx",
+		"/Users/Austin/Desktop/test/index.html",
+		"/Users/Austin/Desktop/test/app.js",
+		"/Users/Austin/Desktop/Austin/Week_10_Projects/jQuery_formvalidation/index.html",
+		"/Users/Austin/AustinErik/tests/spec.js",
+		"/Users/Austin/AustinErik/to_do_app/package.json",
+		"/Users/Austin/Desktop/Austin/Week_8_Projects/fruits/fruit.js",
+		"/Users/Austin/Desktop/myapp/npm-debug.log",
+		"/Users/Austin/Desktop/myapp/package.json",
+		"/Users/Austin/Desktop/Austin/Week_3_Projects/W3P2/index.html",
+		"/Users/Austin/Desktop/Austin/Week_3_Projects/W3P2/style.css",
+		"/Users/Austin/Desktop/Austin/Week_JS_Projects/JSP3/script3.js",
+		"/Users/Austin/Desktop/Austin/Week_JS_Projects/JSP3/index.html",
+		"/Users/Austin/Desktop/JavaScript_Projects/JSP1/script.js",
+		"/Users/Austin/Desktop/JavaScript_Projects/JSP1/index.html",
+		"/Users/Austin/Desktop/JavaScript_Projects/JSP2/script.js",
+		"/Users/Austin/Desktop/Git_Projects/style.css",
+		"/Users/Austin/Desktop/Austin/Week_1_Projects/W1P5/README.md",
+		"/Users/Austin/Desktop/Exercise_files/Chapter_01/01_02/syntax.html",
+		"/Users/Austin/Downloads/plunk-HMm5RASTllqVs5WPkcVZ (2)/index.html",
+		"/Users/Austin/Downloads/plunk-HMm5RASTllqVs5WPkcVZ (2)/script.js",
+		"/Users/Austin/Downloads/plunk-HMm5RASTllqVs5WPkcVZ (2)/style.css",
+		"/Users/Austin/Downloads/plunk-HMm5RASTllqVs5WPkcVZ (2)/README.md",
+		"/Users/Austin/Downloads/plunk-HMm5RASTllqVs5WPkcVZ/style.css",
+		"/Users/Austin/Downloads/plunk-HMm5RASTllqVs5WPkcVZ/script.js",
+		"/Users/Austin/Downloads/plunk-HMm5RASTllqVs5WPkcVZ/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

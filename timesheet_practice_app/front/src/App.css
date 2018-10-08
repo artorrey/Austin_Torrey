@@ -1,0 +1,23 @@
+.App{
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+#ts_button {
+    color: #000;
+    margin: 25px;
+}
+
+th {
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+label {
+    margin-right:20px;
+    margin-left: 20px;
+}
+
+.form-control {
+    margin-right: 12px;
+}
